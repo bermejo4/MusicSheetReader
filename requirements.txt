@@ -1,0 +1,3 @@
+pip install pdf2image
+pip3 install pdf2image
+
